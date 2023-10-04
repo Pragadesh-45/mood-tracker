@@ -4,3 +4,4 @@ bson
 flask_bcrypt
 flask_cors
 gunicorn
+dotenv
